@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Ihtisham ul Haq Khoso! 👋
 
-<!--
-**ihtishamkhoso/Ihtishamkhoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **MERN Stack Developer** and web developer, dedicated to building responsive web experiences and exploring dynamic tech solutions.
 
-Here are some ideas to get you started:
+### 🚀 About Me:
+- 🎓 Pursuing BS in Information Technology at University of Sindh (Session 2k24).
+- 💻 Deeply engaged in full-stack development using the MERN Stack.
+- 🛠️ Love working on clean code, interactive UI/UX, and building creative web projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills:
+- **Frontend:** React.js, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools & Version Control:** Git, GitHub, NVM, VS Code
+
+### 📈 My GitHub Stats:
+![Ihtisham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihtisham-khoso&show_icons=true&theme=radial&count_private=true)
